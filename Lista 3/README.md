@@ -1,5 +1,5 @@
 [EN] Portuguese below
-# Task: Exercise List 1
+# Task: Exercise List 3
 
 ## Team
 - Pedro Henrique Bassani
@@ -20,9 +20,15 @@
 Currently, all tasks from this list are completed and solved:
 
 - [x] Task 1
-- [x] Task 2
-- [x] Task 3
-- [x] Task 4
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4
+- [ ] Task 5
+- [ ] Task 6
+- [ ] Task 7
+- [ ] Task 8
+- [ ] Task 9
+- [x] Task 10
 
 ## References and/or Credits
 >
@@ -32,7 +38,7 @@ Currently, all tasks from this list are completed and solved:
 <br>
 
 [PT-BR]
-## Tarefa: Lista de Exercícios 1
+## Tarefa: Lista de Exercícios 3
 
 ## Equipe
 - Pedro Henrique Bassani
@@ -53,9 +59,15 @@ Currently, all tasks from this list are completed and solved:
 Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
 
 - [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [x] Tarefa 4
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [ ] Tarefa 4
+- [ ] Tarefa 5
+- [ ] Tarefa 6
+- [ ] Tarefa 7
+- [ ] Tarefa 8
+- [ ] Tarefa 9
+- [x] Tarefa 10
 
 ## Referências e/ou créditos
 >
