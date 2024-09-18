@@ -1,4 +1,38 @@
-# Tarefa: Lista de Exercícios 1
+[EN] Portuguese below
+# Task: Exercise List 1
+
+## Team
+- Pedro Henrique Bassani
+
+## Prerequisites and Dependencies
+
+- You need access to Visual Studio Code and the C/C++ Extension Pack.
+- Recommended for Windows. (Not yet tested on Linux or Mac)
+
+## General Comments
+
+>
+>Each exercise in the list is solving some activity previously covered in class.
+>
+
+## Adjustments and Improvements
+
+Currently, all tasks from this list are completed and solved:
+
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [x] Task 4
+
+## References and/or Credits
+>
+> Credits to professor ROSSANA BAPTISTA QUEIROZ,  
+>for providing the exercise list for the appropriate learning and support in the course.
+>
+<br>
+
+[PT-BR]
+## Tarefa: Lista de Exercícios 1
 
 ## Equipe
 - Pedro Henrique Bassani
