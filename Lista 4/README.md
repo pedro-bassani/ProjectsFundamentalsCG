@@ -26,6 +26,7 @@ Currently, all tasks from this list are completed and solved:
 - [x] Task 1E
 - [ ] Task 1F
 - [ ] Task 1G
+- [ ] Task 1H
 - [ ] Task 2
 - [ ] Task 3
 - [ ] Task 4
@@ -70,6 +71,7 @@ Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
 - [x] Tarefa 1E
 - [ ] Tarefa 1F
 - [ ] Tarefa 1G
+- [ ] Tarefa 1H
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 - [ ] Tarefa 4
