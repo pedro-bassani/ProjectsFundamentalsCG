@@ -25,15 +25,15 @@ Currently, all tasks from this list are completed and solved:
 - [x] Task 4
 - [x] Task 5
 - [x] Task 6
-- [ ] Task 7
-- [ ] Task 8
-- [ ] Task 9
+- [x] Task 7
+- [x] Task 8
+- [x] Task 9
 - [x] Task 10
-- [ ] Task 11
-- [ ] Task 12
-- [ ] Task 13
-- [ ] Task 14
-- [ ] Task 15
+- [x] Task 11
+- [x] Task 12
+- [x] Task 13
+- [x] Task 14
+- [x] Task 15
 
 ## References and/or Credits
 >
@@ -69,15 +69,15 @@ Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
 - [x] Tarefa 4
 - [x] Tarefa 5
 - [x] Tarefa 6
-- [ ] Tarefa 7
-- [ ] Tarefa 8
-- [ ] Tarefa 9
+- [x] Tarefa 7
+- [x] Tarefa 8
+- [x] Tarefa 9
 - [x] Tarefa 10
-- [ ] Tarefa 11
-- [ ] Tarefa 12
-- [ ] Tarefa 13
-- [ ] Tarefa 14
-- [ ] Tarefa 15
+- [x] Tarefa 11
+- [x] Tarefa 12
+- [x] Tarefa 13
+- [x] Tarefa 14
+- [x] Tarefa 15
 
 ## Referências e/ou créditos
 >
