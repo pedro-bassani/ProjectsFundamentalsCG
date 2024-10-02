@@ -1,40 +1,36 @@
 [EN] Portuguese below
-# Task: Exercise List 4
+# Task: Practical exercise of Grade A
 
 ## Team
+- Augusto Henrique Lehnen
+- Bruno Malta
 - Pedro Henrique Bassani
 
 ## Prerequisites and Dependencies
 
 - You need access to Visual Studio Code and the C/C++ Extension Pack.
-- Recommended for Windows. (Not yet tested on Linux or Mac)
+- Recommended for Windows. (Not yet tested on Linux or Mac).
 
 ## General Comments
 
->
->Each exercise in the list is solving some activity previously covered in class.
->
+- The Objective:
+
+  The objective of this work is to exercise the concepts studied so far, such as data input and output, mathematical expressions,
+  selection commands (if-else) and repetition commands (while, for). Developing a simple simulation that reproduces bacterial growth in a Petri dish,
+  incorporating elements of randomness and environmental conditions, reinforces learning.
+  The code must be developed in C/C++, using the content worked in class, and must be correctly indented and commented.
+
+- The Description:
+
+  You will develop a C program that simulates the growth of a population of bacteria in a Petri dish over a user-defined period of time.
+  The program must allow the user to configure the growth rate, total observation time (in cycles)
+  and implement environmental conditions that can affect bacterial growth.
 
 ## Adjustments and Improvements
 
-Currently, all tasks from this list are completed and solved:
+The task below is currently being completed and is in the construction process:
 
-- [x] Task 1A
-- [x] Task 1B
-- [ ] Task 1C
-- [ ] Task 1D
-- [x] Task 1E
-- [ ] Task 1F
-- [ ] Task 1G
-- [ ] Task 1H
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
-- [ ] Task 5
-- [ ] Task 6 
-- [ ] Task 7
-- [ ] Task 8
-- [ ] Task 9
+- [ ] Exercise GA
 
 ## References and/or Credits
 >
@@ -44,9 +40,11 @@ Currently, all tasks from this list are completed and solved:
 <br>
 
 [PT-BR]
-## Tarefa: Lista de Exercícios 4
+## Tarefa: Trabalho prático do Grau A
 
 ## Equipe
+- Augusto Henrique Lehnen
+- Bruno Malta
 - Pedro Henrique Bassani
 
 ## Pré requisitos e dependências
@@ -56,30 +54,28 @@ Currently, all tasks from this list are completed and solved:
 
 ## Comentários gerais
 
->
->Cada exercício da lista está resolvendo alguma atividade passada em aula.
->
+- O Objetivo:
+  
+  O objetivo deste trabalho é exercitar os conceitos estudados até o momento, como
+entrada e saída de dados, expressões matemáticas, comandos de seleção (if-else) e comandos de
+repetição (while, for). O desenvolvimento de uma simulação simples que reproduz o crescimento
+bacteriano em uma placa de Petri, incorporando elementos de aleatoriedade e condições
+ambientais, reforça o aprendizado. O código deve ser desenvolvido em C/C++, utilizando o
+conteúdo trabalhado em aula, e deve estar corretamente indentado e comentado.
+
+- Descrição do Problema:
+
+  Você vai desenvolver um programa em C que simula o crescimento de uma população de bactérias
+em uma placa de Petri ao longo de um período de tempo definido pelo usuário. O programa deve
+permitir ao usuário configurar a taxa de crescimento, o tempo total de observação (em ciclos) e
+implementar condições ambientais que podem afetar o crescimento bacteriano.
+
 
 ## Ajustes e melhorias
 
-Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
+Atualmente a tarefa abaixo está sendo concluida e está em processo de construção:
 
-- [x] Tarefa 1A
-- [x] Tarefa 1B
-- [ ] Tarefa 1C
-- [ ] Tarefa 1D
-- [x] Tarefa 1E
-- [ ] Tarefa 1F
-- [ ] Tarefa 1G
-- [ ] Tarefa 1H
-- [ ] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
-- [ ] Tarefa 6
-- [ ] Tarefa 7
-- [ ] Tarefa 8
-- [ ] Tarefa 9
+- [ ] Trabalho GA
 
 ## Referências e/ou créditos
 >
