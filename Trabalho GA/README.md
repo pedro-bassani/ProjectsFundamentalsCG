@@ -28,9 +28,9 @@
 
 ## Adjustments and Improvements
 
-The task below is currently being completed and is in the construction process:
+The task below is currently completed and it is ready to use:
 
-- [ ] Exercise GA
+- [x] Exercise GA
 
 ## References and/or Credits
 >
@@ -73,9 +73,9 @@ implementar condições ambientais que podem afetar o crescimento bacteriano.
 
 ## Ajustes e melhorias
 
-Atualmente a tarefa abaixo está sendo concluida e está em processo de construção:
+Atualmente a tarefa abaixo está concluida e pronta para uso:
 
-- [ ] Trabalho GA
+- [x] Trabalho GA
 
 ## Referências e/ou créditos
 >
