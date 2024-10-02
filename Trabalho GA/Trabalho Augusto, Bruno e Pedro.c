@@ -50,7 +50,7 @@ int main () {
                 novaPop -= novaPop * 0.5;
                 printf("Ciclo %d: População = %.2f (condição adversa: Radiação Ultravioleta!)\n", i, novaPop);
 
-            } else if (novaPop == 0) {
+            } else if (novaPop <= 0) {
                 printf("A população morreu e que a simulação não pôde continuar!");
             
             } else {
